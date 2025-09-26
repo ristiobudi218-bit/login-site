@@ -76,7 +76,7 @@
         msg.textContent = "Login berhasil ✅";
         // Redirect ke halaman lain setelah login sukses
         setTimeout(() => {
-          window.location.href = "[https://sites.google.com](https://docs.google.com/forms/d/1kimnxz88D-ayXtNi2Y94lIyYzUKtR7kk5AZHrdx-5qU/edit)/"; 
+          window.location.href = "[https://forms.gle/vvxR7Z9JREBGS7KU7}/"; 
         }, 1500);
       } else {
         msg.textContent = "Username atau password salah ❌";
